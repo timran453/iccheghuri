@@ -1,0 +1,93 @@
+body {
+   background-color: #fff;
+}
+
+header {
+   background-color: #ffffff;
+}
+
+.cover {
+   width: 100%;
+   max-width: 1200px;
+   height: auto;
+}
+
+main {
+   background-color: #ffffff;
+   padding-top: 50px;
+}
+
+h1 {
+   text-align: center;
+   color: #952323;
+   font-family: "Fira Sans Condensed", sans-serif;
+   margin-top: 60px;
+   margin-bottom: 50px;
+}
+
+h3 {
+   color: #416D19;
+   font-family: "Roboto Condensed", sans-serif;
+   letter-spacing: 1px;
+   font-weight: 600;
+
+}
+
+p {
+   margin: 0;
+   padding-left: 0;
+   font-size: 20px;
+   line-height: 30px;
+   color: #31363F;
+   padding-bottom: 30px;
+   font-family: "Spline Sans", sans-serif;
+}
+
+.btn {
+   background-color: #952323;
+   color: #fff;
+   border: none;
+   max-width: 400px;
+   text-transform: capitalize;
+   font-size: 18px;
+   font-family: "Roboto Condensed", sans-serif;
+   font-style: italic;
+   letter-spacing: 2px;
+   padding: 5px 50px;
+   display: block;
+   margin-bottom: 20px;
+}
+
+.btn:hover {
+   background: #fff;
+   color: #952323;
+   border: 1px solid #952323;
+}
+.img{
+    max-width: 300px;
+    height: auto;
+}
+.footer{
+    background: #952323;
+    color: #fff;
+    height: 80px;
+}
+.footer p{
+    color: #fff;
+    text-align: Center;
+    padding-top: 20px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.footer p a{
+    text-decoration: none;
+    color: #f0f0f0a0;
+    font-family: "Noto Sans Bengali", sans-serif;
+}
+/* font-family: "Fira Sans Condensed",
+sans-serif;
+font-family: "Spline Sans",
+sans-serif;
+font-family: "Roboto Condensed",
+sans-serif;
+font-family: "Noto Sans Bengali",
+sans-serif; */
